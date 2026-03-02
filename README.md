@@ -1,6 +1,6 @@
 <h1 align="center">✨ UniDorm Project FullStack ✨</h1>
 
-![Demo App](/frontend/public/uniDorm.png)
+![Demo App](/src/main/java/com/demo/stock/preview/uniDorm.png)
 
 Highlights:
 
