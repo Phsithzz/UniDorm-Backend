@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://shortline.proxy.rlwy.net:14275/railway
+    username: postgres
+    password: jmPITzjWwPSgoufyLTZuVUhTbPxQfnuJ 
+    driver-class-name: org.postgresql.Driver
